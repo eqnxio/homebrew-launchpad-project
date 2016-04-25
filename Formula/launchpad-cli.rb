@@ -2,9 +2,9 @@ class LaunchpadCli < Formula
   desc ''
   homepage 'https://dl.equinox.io/launchpad-project/launchpad-cli'
 
-  url 'https://bin.equinox.io/a/4rq3mAsoDVU/launchpad-cli-0.0.1-darwin-amd64.tar.gz'
-  sha256 'e901959cac454ebad713f1c4f86e974849ef93109d6ab91bf41e4960ec363582'
-  version '0.0.1'
+  url 'https://bin.equinox.io/a/mjf3QyQgSQp/launchpad-cli-0.0.2-darwin-amd64.tar.gz'
+  sha256 'f2f3481bca15efb72a264fbd3451a5ab40d945ec3cd1f3680af54bec1cedde53'
+  version '0.0.2'
 
   def install
     bin.install 'launchpad'
